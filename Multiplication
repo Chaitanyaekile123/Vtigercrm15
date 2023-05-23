@@ -24,7 +24,12 @@ public static void main(String[] args)
  }
 }
 driver.manage().window().maximize();
+
 driver.manage().window().manimize();
+
 driver.manage().window().fullscreen();
 driver.manage().window().setposition();
+
+
+
 
