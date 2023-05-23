@@ -16,9 +16,15 @@ public static void main(String[] args)
     int h=40;
     int i=a-b;
     System.out.println(i);
+    
     int g=10;
     int k=40;
     int l=a+b;
     System.out.println(l);   
  }
 }
+driver.manage().window().maximize();
+driver.manage().window().manimize();
+driver.manage().window().fullscreen();
+driver.manage().window().setposition();
+
